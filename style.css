@@ -122,75 +122,75 @@ section.dogs {
 
 .fdogs {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .fdogs .first {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fdogs .second {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fdogs .third {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fdogs .fourth {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sdogs {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .sdogs .first {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sdogs .second {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sdogs .third {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sdogs .fourth {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -199,8 +199,8 @@ section.dogs {
 section.cats {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    margin: 20px 0;
+    justify-content: center;
+    margin: 40px 0 20px 0;
     height: 80vh;
 }
 
@@ -212,32 +212,32 @@ section.cats {
 .fcats .first {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fcats .second {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fcats .third {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .fcats .fourth {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -249,32 +249,32 @@ section.cats {
 .scats .first {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .scats .second {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .scats .third {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 .scats .fourth {
     background-image: url(img/psy/pies1.jpeg);
     width: 22%;
-    height: 30vh;
-    background-size: 100%;
+    height: 35vh;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
